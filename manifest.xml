@@ -45,7 +45,7 @@
   <FormSettings>
     <Form xsi:type="ItemRead">
       <DesktopSettings>
-        <SourceLocation DefaultValue="https://localhost:3000/index.html"/>
+        <SourceLocation DefaultValue="https://polar-caverns-24059.herokuapp.com/"/>
         <RequestedHeight>250</RequestedHeight>
       </DesktopSettings>
     </Form>
