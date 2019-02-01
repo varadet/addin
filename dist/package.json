@@ -1,0 +1,12 @@
+{
+  "name": "temp-addin",
+  "description": "",
+  "author": "",
+  "version": "0.1.0",
+  "engines": {
+    "node": "10.15.0"
+  },
+  "dependencies": {
+    "express": "^4.16.4"
+  }
+}
